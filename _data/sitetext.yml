@@ -98,6 +98,7 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
+      -
       - name: "Julia Polke de Castro"
         role: "UX Designer"
         image: assets/img/team/JuliaPolke_foto.jpg
@@ -106,6 +107,7 @@ en: &DEFAULT_EN
             icon: "fab fa-github"
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      -
       
   contact:
     title: "Contact Us"
